@@ -1,1 +1,1 @@
-# Time-Series-Price-prediction-moving-average-
+# Time-Series-Price-prediction (moving-average)
